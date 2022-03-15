@@ -39,10 +39,6 @@ The user can press ‘g’ to achieve a grayscale version of the video feed. Thi
 ## Grayscale 2:
 The user can press ‘h’ to achieve a grayscale version of the video feed. This is implemented setting the pixel values at R and B channels to that of the G channel for the entire frame. The input is the colored frame captured by the webcam and the output is the grayscale frame.
 
-**Original Image**
-
-![image2](https://user-images.githubusercontent.com/44782426/158482773-1cdd9e4a-b6ae-4035-a25f-17abe633c9a5.jpg)
-
 **Grayscale Image**
 
 ![grayscale2](https://user-images.githubusercontent.com/44782426/158482788-e4093ea5-3f19-4327-9869-9e70e4d4b712.jpg)
@@ -61,10 +57,6 @@ The user can press ‘b’ to achieve a blurred version of the video feed. This 
 
 ## SobelX and SobelY Filters:
 The user can press ‘x’ and ‘y’ respectively to achieve a SobelX and SobelY version of the video feed. Sobel filters are used to detect edges in an image. SobelX detects the vertical edges and SobelY detects the horizontal edges.
-
-**Original Image**
-
-![image2](https://user-images.githubusercontent.com/44782426/158482888-89b4ee11-dcc0-4dcd-a6d6-fade64635215.jpg)
 
 **SOBEL X Image**
 
